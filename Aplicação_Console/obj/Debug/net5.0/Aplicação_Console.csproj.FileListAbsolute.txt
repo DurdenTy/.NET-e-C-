@@ -1,0 +1,16 @@
+C:\Gittestes\.NET e C#\Aplicação_Console\bin\Debug\net5.0\Aplicação_Console.exe
+C:\Gittestes\.NET e C#\Aplicação_Console\bin\Debug\net5.0\Aplicação_Console.deps.json
+C:\Gittestes\.NET e C#\Aplicação_Console\bin\Debug\net5.0\Aplicação_Console.runtimeconfig.json
+C:\Gittestes\.NET e C#\Aplicação_Console\bin\Debug\net5.0\Aplicação_Console.runtimeconfig.dev.json
+C:\Gittestes\.NET e C#\Aplicação_Console\bin\Debug\net5.0\Aplicação_Console.dll
+C:\Gittestes\.NET e C#\Aplicação_Console\bin\Debug\net5.0\ref\Aplicação_Console.dll
+C:\Gittestes\.NET e C#\Aplicação_Console\bin\Debug\net5.0\Aplicação_Console.pdb
+C:\Gittestes\.NET e C#\Aplicação_Console\obj\Debug\net5.0\Aplicação_Console.csprojAssemblyReference.cache
+C:\Gittestes\.NET e C#\Aplicação_Console\obj\Debug\net5.0\Aplicação_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gittestes\.NET e C#\Aplicação_Console\obj\Debug\net5.0\Aplicação_Console.AssemblyInfoInputs.cache
+C:\Gittestes\.NET e C#\Aplicação_Console\obj\Debug\net5.0\Aplicação_Console.AssemblyInfo.cs
+C:\Gittestes\.NET e C#\Aplicação_Console\obj\Debug\net5.0\Aplicação_Console.csproj.CoreCompileInputs.cache
+C:\Gittestes\.NET e C#\Aplicação_Console\obj\Debug\net5.0\Aplicação_Console.dll
+C:\Gittestes\.NET e C#\Aplicação_Console\obj\Debug\net5.0\ref\Aplicação_Console.dll
+C:\Gittestes\.NET e C#\Aplicação_Console\obj\Debug\net5.0\Aplicação_Console.pdb
+C:\Gittestes\.NET e C#\Aplicação_Console\obj\Debug\net5.0\Aplicação_Console.genruntimeconfig.cache
