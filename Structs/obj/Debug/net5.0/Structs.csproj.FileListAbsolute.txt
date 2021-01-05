@@ -1,0 +1,16 @@
+C:\Gittestes\.NET e C#\Structs\bin\Debug\net5.0\Structs.exe
+C:\Gittestes\.NET e C#\Structs\bin\Debug\net5.0\Structs.deps.json
+C:\Gittestes\.NET e C#\Structs\bin\Debug\net5.0\Structs.runtimeconfig.json
+C:\Gittestes\.NET e C#\Structs\bin\Debug\net5.0\Structs.runtimeconfig.dev.json
+C:\Gittestes\.NET e C#\Structs\bin\Debug\net5.0\Structs.dll
+C:\Gittestes\.NET e C#\Structs\bin\Debug\net5.0\ref\Structs.dll
+C:\Gittestes\.NET e C#\Structs\bin\Debug\net5.0\Structs.pdb
+C:\Gittestes\.NET e C#\Structs\obj\Debug\net5.0\Structs.csprojAssemblyReference.cache
+C:\Gittestes\.NET e C#\Structs\obj\Debug\net5.0\Structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gittestes\.NET e C#\Structs\obj\Debug\net5.0\Structs.AssemblyInfoInputs.cache
+C:\Gittestes\.NET e C#\Structs\obj\Debug\net5.0\Structs.AssemblyInfo.cs
+C:\Gittestes\.NET e C#\Structs\obj\Debug\net5.0\Structs.csproj.CoreCompileInputs.cache
+C:\Gittestes\.NET e C#\Structs\obj\Debug\net5.0\Structs.dll
+C:\Gittestes\.NET e C#\Structs\obj\Debug\net5.0\ref\Structs.dll
+C:\Gittestes\.NET e C#\Structs\obj\Debug\net5.0\Structs.pdb
+C:\Gittestes\.NET e C#\Structs\obj\Debug\net5.0\Structs.genruntimeconfig.cache

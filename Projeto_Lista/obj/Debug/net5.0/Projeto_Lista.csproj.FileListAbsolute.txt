@@ -1,0 +1,16 @@
+C:\Gittestes\.NET e C#\Projeto_Lista\bin\Debug\net5.0\Projeto_Lista.exe
+C:\Gittestes\.NET e C#\Projeto_Lista\bin\Debug\net5.0\Projeto_Lista.deps.json
+C:\Gittestes\.NET e C#\Projeto_Lista\bin\Debug\net5.0\Projeto_Lista.runtimeconfig.json
+C:\Gittestes\.NET e C#\Projeto_Lista\bin\Debug\net5.0\Projeto_Lista.runtimeconfig.dev.json
+C:\Gittestes\.NET e C#\Projeto_Lista\bin\Debug\net5.0\Projeto_Lista.dll
+C:\Gittestes\.NET e C#\Projeto_Lista\bin\Debug\net5.0\ref\Projeto_Lista.dll
+C:\Gittestes\.NET e C#\Projeto_Lista\bin\Debug\net5.0\Projeto_Lista.pdb
+C:\Gittestes\.NET e C#\Projeto_Lista\obj\Debug\net5.0\Projeto_Lista.csprojAssemblyReference.cache
+C:\Gittestes\.NET e C#\Projeto_Lista\obj\Debug\net5.0\Projeto_Lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gittestes\.NET e C#\Projeto_Lista\obj\Debug\net5.0\Projeto_Lista.AssemblyInfoInputs.cache
+C:\Gittestes\.NET e C#\Projeto_Lista\obj\Debug\net5.0\Projeto_Lista.AssemblyInfo.cs
+C:\Gittestes\.NET e C#\Projeto_Lista\obj\Debug\net5.0\Projeto_Lista.csproj.CoreCompileInputs.cache
+C:\Gittestes\.NET e C#\Projeto_Lista\obj\Debug\net5.0\Projeto_Lista.dll
+C:\Gittestes\.NET e C#\Projeto_Lista\obj\Debug\net5.0\ref\Projeto_Lista.dll
+C:\Gittestes\.NET e C#\Projeto_Lista\obj\Debug\net5.0\Projeto_Lista.pdb
+C:\Gittestes\.NET e C#\Projeto_Lista\obj\Debug\net5.0\Projeto_Lista.genruntimeconfig.cache
