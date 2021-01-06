@@ -1,0 +1,16 @@
+C:\Gittestes\.NET e C#\Exercícios_e_Praticas_em_C#\Somar_Média_entre_5_variáveis\bin\Debug\net5.0\Somar_Média_entre_5_variáveis.exe
+C:\Gittestes\.NET e C#\Exercícios_e_Praticas_em_C#\Somar_Média_entre_5_variáveis\bin\Debug\net5.0\Somar_Média_entre_5_variáveis.deps.json
+C:\Gittestes\.NET e C#\Exercícios_e_Praticas_em_C#\Somar_Média_entre_5_variáveis\bin\Debug\net5.0\Somar_Média_entre_5_variáveis.runtimeconfig.json
+C:\Gittestes\.NET e C#\Exercícios_e_Praticas_em_C#\Somar_Média_entre_5_variáveis\bin\Debug\net5.0\Somar_Média_entre_5_variáveis.runtimeconfig.dev.json
+C:\Gittestes\.NET e C#\Exercícios_e_Praticas_em_C#\Somar_Média_entre_5_variáveis\bin\Debug\net5.0\Somar_Média_entre_5_variáveis.dll
+C:\Gittestes\.NET e C#\Exercícios_e_Praticas_em_C#\Somar_Média_entre_5_variáveis\bin\Debug\net5.0\ref\Somar_Média_entre_5_variáveis.dll
+C:\Gittestes\.NET e C#\Exercícios_e_Praticas_em_C#\Somar_Média_entre_5_variáveis\bin\Debug\net5.0\Somar_Média_entre_5_variáveis.pdb
+C:\Gittestes\.NET e C#\Exercícios_e_Praticas_em_C#\Somar_Média_entre_5_variáveis\obj\Debug\net5.0\Somar_Média_entre_5_variáveis.csprojAssemblyReference.cache
+C:\Gittestes\.NET e C#\Exercícios_e_Praticas_em_C#\Somar_Média_entre_5_variáveis\obj\Debug\net5.0\Somar_Média_entre_5_variáveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gittestes\.NET e C#\Exercícios_e_Praticas_em_C#\Somar_Média_entre_5_variáveis\obj\Debug\net5.0\Somar_Média_entre_5_variáveis.AssemblyInfoInputs.cache
+C:\Gittestes\.NET e C#\Exercícios_e_Praticas_em_C#\Somar_Média_entre_5_variáveis\obj\Debug\net5.0\Somar_Média_entre_5_variáveis.AssemblyInfo.cs
+C:\Gittestes\.NET e C#\Exercícios_e_Praticas_em_C#\Somar_Média_entre_5_variáveis\obj\Debug\net5.0\Somar_Média_entre_5_variáveis.csproj.CoreCompileInputs.cache
+C:\Gittestes\.NET e C#\Exercícios_e_Praticas_em_C#\Somar_Média_entre_5_variáveis\obj\Debug\net5.0\Somar_Média_entre_5_variáveis.dll
+C:\Gittestes\.NET e C#\Exercícios_e_Praticas_em_C#\Somar_Média_entre_5_variáveis\obj\Debug\net5.0\ref\Somar_Média_entre_5_variáveis.dll
+C:\Gittestes\.NET e C#\Exercícios_e_Praticas_em_C#\Somar_Média_entre_5_variáveis\obj\Debug\net5.0\Somar_Média_entre_5_variáveis.pdb
+C:\Gittestes\.NET e C#\Exercícios_e_Praticas_em_C#\Somar_Média_entre_5_variáveis\obj\Debug\net5.0\Somar_Média_entre_5_variáveis.genruntimeconfig.cache

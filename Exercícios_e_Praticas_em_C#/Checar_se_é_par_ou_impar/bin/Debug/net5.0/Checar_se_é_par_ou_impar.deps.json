@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Checar_se_é_par_ou_impar/1.0.0": {
+        "runtime": {
+          "Checar_se_é_par_ou_impar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Checar_se_é_par_ou_impar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

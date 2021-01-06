@@ -1,0 +1,16 @@
+C:\Gittestes\.NET e C#\Exercícios_e_Praticas_em_C#\Checar_se_é_par_ou_impar\bin\Debug\net5.0\Checar_se_é_par_ou_impar.exe
+C:\Gittestes\.NET e C#\Exercícios_e_Praticas_em_C#\Checar_se_é_par_ou_impar\bin\Debug\net5.0\Checar_se_é_par_ou_impar.deps.json
+C:\Gittestes\.NET e C#\Exercícios_e_Praticas_em_C#\Checar_se_é_par_ou_impar\bin\Debug\net5.0\Checar_se_é_par_ou_impar.runtimeconfig.json
+C:\Gittestes\.NET e C#\Exercícios_e_Praticas_em_C#\Checar_se_é_par_ou_impar\bin\Debug\net5.0\Checar_se_é_par_ou_impar.runtimeconfig.dev.json
+C:\Gittestes\.NET e C#\Exercícios_e_Praticas_em_C#\Checar_se_é_par_ou_impar\bin\Debug\net5.0\Checar_se_é_par_ou_impar.dll
+C:\Gittestes\.NET e C#\Exercícios_e_Praticas_em_C#\Checar_se_é_par_ou_impar\bin\Debug\net5.0\ref\Checar_se_é_par_ou_impar.dll
+C:\Gittestes\.NET e C#\Exercícios_e_Praticas_em_C#\Checar_se_é_par_ou_impar\bin\Debug\net5.0\Checar_se_é_par_ou_impar.pdb
+C:\Gittestes\.NET e C#\Exercícios_e_Praticas_em_C#\Checar_se_é_par_ou_impar\obj\Debug\net5.0\Checar_se_é_par_ou_impar.csprojAssemblyReference.cache
+C:\Gittestes\.NET e C#\Exercícios_e_Praticas_em_C#\Checar_se_é_par_ou_impar\obj\Debug\net5.0\Checar_se_é_par_ou_impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gittestes\.NET e C#\Exercícios_e_Praticas_em_C#\Checar_se_é_par_ou_impar\obj\Debug\net5.0\Checar_se_é_par_ou_impar.AssemblyInfoInputs.cache
+C:\Gittestes\.NET e C#\Exercícios_e_Praticas_em_C#\Checar_se_é_par_ou_impar\obj\Debug\net5.0\Checar_se_é_par_ou_impar.AssemblyInfo.cs
+C:\Gittestes\.NET e C#\Exercícios_e_Praticas_em_C#\Checar_se_é_par_ou_impar\obj\Debug\net5.0\Checar_se_é_par_ou_impar.csproj.CoreCompileInputs.cache
+C:\Gittestes\.NET e C#\Exercícios_e_Praticas_em_C#\Checar_se_é_par_ou_impar\obj\Debug\net5.0\Checar_se_é_par_ou_impar.dll
+C:\Gittestes\.NET e C#\Exercícios_e_Praticas_em_C#\Checar_se_é_par_ou_impar\obj\Debug\net5.0\ref\Checar_se_é_par_ou_impar.dll
+C:\Gittestes\.NET e C#\Exercícios_e_Praticas_em_C#\Checar_se_é_par_ou_impar\obj\Debug\net5.0\Checar_se_é_par_ou_impar.pdb
+C:\Gittestes\.NET e C#\Exercícios_e_Praticas_em_C#\Checar_se_é_par_ou_impar\obj\Debug\net5.0\Checar_se_é_par_ou_impar.genruntimeconfig.cache
