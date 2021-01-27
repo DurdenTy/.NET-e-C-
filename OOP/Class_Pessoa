@@ -1,0 +1,71 @@
+using System;
+
+namespace Classe_conta
+{
+    class Program
+    {
+        
+        class Cliente{
+            public string nome;
+            public string cpf;
+            public string idade;
+
+            
+
+        }
+
+        class Conta{
+            public Cliente titular;
+
+        
+        }
+
+
+        class Information{
+            public string nome{get; private set;}
+            public string cpf{ get; private set;}
+            public int idade {get; private set;}
+            public Information(string name, string cp, int dade){
+                this.nome = name;
+                this.cpf = cp;
+                this.idade = dade;
+            }
+            public virtual string MostrarInformation(){
+
+                return $"Seu nome é {this.nome} e o seu CPF é {this.cpf}, idade {this.idade}";
+            }
+
+            public int Envelhecer(int velho){
+                return this.idade += velho;
+            }
+
+            public int DataDeAniversario(){
+                return 2020 - this.idade;
+            }
+        }
+
+        
+
+        
+
+        static void Main(string[] args)
+        {
+            
+            
+
+            Information privado = new Information("Secreto", "823.231.326-32", 67);
+            privado.Envelhecer(30);
+            Console.WriteLine(privado.MostrarInformation());
+            
+
+     
+
+            
+
+            Console.WriteLine();            
+
+
+
+        }
+    }
+}
