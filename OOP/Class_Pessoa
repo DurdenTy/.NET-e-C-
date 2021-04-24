@@ -53,7 +53,7 @@ namespace Classe_conta
             
             
 
-            Information privado = new Information("Secreto", "823.231.326-32", 67);
+            Information privado = new Information("Secreto", "999.999.99-99", 67);
             privado.Envelhecer(30);
             Console.WriteLine(privado.MostrarInformation());
             
